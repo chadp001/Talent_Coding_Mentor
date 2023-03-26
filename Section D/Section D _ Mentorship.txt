@@ -1,0 +1,33 @@
+﻿Option 1: Student Progress
+As a mentor, I understand the importance of ensuring the success of all students in the bootcamp, regardless of their current progress. In this hypothetical scenario, it's clear that we have some students who are struggling to keep up with the pace of the program, while others are excelling beyond expectations. In order to address this imbalance and ensure that all students are on track to complete the program successfully, I would recommend the following intervention plan:
+
+
+For the 5 students who are 2 weeks behind on their expected progress, I would schedule individual mentor support calls to discuss their specific challenges and provide tailored guidance on how to catch up. I would also provide additional resources, such as relevant reading materials or video tutorials, to help them bridge any knowledge gaps. I would then follow up on a regular basis with them to ensure that they understand all concepts in the work they are currently on. Which will encourage and motivate them to push ahead, keep on track and complete the course.
+
+
+For the 10 students who are at risk of falling behind, I would send out a reminder email to encourage them to complete their next task within the next 2 days. I would also offer to schedule individual support calls to discuss any challenges they are facing and provide guidance on how to overcome them. Additionally, I would provide additional resources, such as study guides or online tutorials, to help them complete their tasks successfully. 
+
+
+For the 5 students who are ahead of expected progress, I would offer optional enrichment activities to challenge them and help them continue to excel. This could include additional coding exercises or a peer mentoring program where they can share their knowledge and expertise with their classmates. I would ask them if they would be willing to participate in the peer mentoring program. Either in one-on-one or group settings with the other students. Teaching and helping others cement one's knowledge and understanding of the subject and even allow them the opportunity to learn more.
+
+
+Overall, my intervention plan would prioritize individualized support for struggling students, while also providing additional resources and opportunities for students who are excelling. By implementing this plan, I am confident that we can help all students in the bootcamp achieve their goals and graduate successfully.
+
+
+Option 2: Java Support Task
+“Hey there! I appreciate you reaching out to me for help with Task 6. It sounds like you're running into some issues with the JOptionPane.ShowDialog() method and the string variable it's assigned to. Before we dive in, I want to make sure I understand the problem correctly. You're saying that the input isn't being stored properly, which is causing your do-while loop to get stuck in an infinite loop. Is that correct?"
+
+
+Assuming the student confirms that this is the issue they're facing, I would proceed with the following steps:
+
+
+"Got it. Let's take a look at your code and see if we can figure out what's going on. Can you walk me through the specific steps you're taking to use the JOptionPane.ShowDialog() method? Are there any error messages that you're seeing?"
+
+
+Based on the student's response, I would then provide tailored guidance and support to help them troubleshoot and resolve the issue. Throughout the conversation, I would aim to be supportive, encouraging, and patient, while also being thorough and precise in my explanations.
+
+
+"I understand this can be a frustrating problem to encounter, but I'm here to help you work through it. Let's take things one step at a time and see if we can pinpoint the issue. Can you try running through the code with me and showing me exactly where the loop is getting stuck? Once we have a better understanding of the problem, we can explore some potential solutions together."
+
+
+Overall, my goal as a mentor in this situation would be to provide a supportive and constructive learning environment that empowers the student to solve problems on their own, while also providing guidance and support when needed. By leveraging active listening, clear explanations, and a supportive tone, I believe we can help the student overcome any obstacles and succeed in their coding journey.

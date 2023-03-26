@@ -1,1 +1,0 @@
-# Talent_Coding_Mentor
